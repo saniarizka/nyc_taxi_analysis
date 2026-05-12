@@ -54,7 +54,7 @@ To avoid data leakage, monetary-related columns such as:
 * `extra`
 * `mta_tax`
 * `imp_surcharge`
-* `total_amount
+* `total_amount`
 
 were excluded from the modeling process.
 
